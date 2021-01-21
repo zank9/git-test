@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zank9/git-test.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "zank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zank9/git-test/issues"
+  },
+  "homepage": "https://github.com/zank9/git-test#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
